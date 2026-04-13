@@ -1,2 +1,0 @@
-# Linear-equation
-Solver
